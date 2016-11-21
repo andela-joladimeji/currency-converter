@@ -1,0 +1,17 @@
+{
+  "name": "currency-converter",
+  "description": "to consume a currency converter api",
+  "main": "scripts/api.js",
+  "authors": [
+    "jumoke"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
